@@ -4,9 +4,7 @@ public class StudentController {
 
 
     public String comprar(){
-
-        return "Compra del item realizada por el estudiante ";
-
+        return "Compra del item \" + itemId + \" realizada por el estudiante ";
 
     }
 }
