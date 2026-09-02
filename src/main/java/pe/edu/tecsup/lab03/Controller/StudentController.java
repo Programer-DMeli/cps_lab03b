@@ -4,6 +4,7 @@ public class StudentController {
 
 
     public void comprar(){
-
+        System.out.println("Compra realizada correctamente");
     }
+
 }
